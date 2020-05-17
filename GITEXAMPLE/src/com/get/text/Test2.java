@@ -5,5 +5,9 @@ public class Test2 {
 		System.out.println("am in main");
 		System.out.println("two am in main" );
 	}
+	
+	public void confict(){
+		System.out.println("am in confilcts");
+	}
 
 }
