@@ -7,7 +7,7 @@ public class Test2 {
 	}
 	
 	public void confict(){
-		System.out.println("am in conficts ---dev1");
+		System.out.println("am in conficts ---dev2");
 	}
 
 }
