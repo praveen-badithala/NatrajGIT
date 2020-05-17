@@ -7,7 +7,7 @@ public class Test2 {
 	}
 	
 	public void confict(){
-		System.out.println("am in confilcts");
+		System.out.println("am in conficts");
 	}
 
 }
